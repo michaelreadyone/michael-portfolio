@@ -1,4 +1,4 @@
-# michael-portfolio
+# Michael-portfolio
 My portfolio page.
 
 # About me

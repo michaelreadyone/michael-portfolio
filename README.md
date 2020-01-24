@@ -9,6 +9,7 @@ As a student in data science. I divide my learning in two parts: data processing
 
 # Portfolio
 Will be updated. 
+[Practice2](/assignment2.md)
 
 # OECD embedding graph
 This is a embedded graph from https://data.oecd.org/ using data government debt, which shows a rank of debt from different country.

@@ -35,19 +35,18 @@ Some question:
   - Pramiary aucidence would be football fans, investers, managers in football business and people who are generall interested in football. This visualization is effective for reaching the audience, it clearly showed the rank and revenue for the top 20 football clubs and the English clubs. However, it could do better.
 
 - Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)
-  -This method delivers a comprehensive evaluation of data viz from many perspective and also present the result in an eye-friendly visualization. However, all those questions are somewhat highlevel questions without pointing to the details of paragraph like what type of chart should you choose and how do like the legend of each axis. The recommedations are: 
-  
-  How do you like the overall color arrangement of the figure? 
-  
-  How do you think the display of each axis? Are they effective to demonstrating the info?
-  
-  Do you experience a heavy eye travelling in the figure?
-
-
+  - This method delivers a comprehensive evaluation of data viz from many perspective and also present the result in an eye-friendly visualization. However, all those questions are somewhat highlevel questions without pointing to the details of paragraph like what type of chart should you choose and how do like the legend of each axis. The recommedations are: 
+    - How do you like the overall color arrangement of the figure? 
+    - How do you think the display of each axis? Are they effective to demonstrating the info?
+    - Do you experience a heavy eye travelling in the figure?
 
 
 # Step 3: wireframe a solution
 
+
+
 # Step 4: test the solution
+
+
 
 # Step 5: my solution

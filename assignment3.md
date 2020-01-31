@@ -43,7 +43,7 @@ Some question:
 
 # Step 3: wireframe a solution
 Attached is my sketch:
-
+![](images/Sketch.PNG)
 
 
 # Step 4: test the solution

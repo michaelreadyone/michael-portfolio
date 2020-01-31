@@ -12,5 +12,6 @@ Will be updated.
 
 # Other Practice
 [Link to Assighment2](/assignment2.md)
+[Link to Assighment3](/assignment3.md)
 
 

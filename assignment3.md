@@ -47,7 +47,30 @@ Attached is my sketch:
 
 
 # Step 4: test the solution
+Below is the answers I got from asking my friends:
+- Can you tell me what you think this is?
+    - Bar charts of revenue of footaball clubs
+    - Some revenue, expenditure
 
+
+- Can you describe to me what this is telling you?
+    - England taks most part
+    - How much the revenue for each club,
+
+
+- Is there anything you find surprising or confusing?
+    - Revenue composition
+    - Number of legends, Team name
+
+
+- Who do you think is the intended audience for this?
+    - hupo fan, fan of football, sport television, football game player
+    - People who likes football, company who engaging get profit to get more money
+
+
+- Is there anything you would change or do differently?
+    - Modify legend 
+    - Color the legend into corresponding color
 
 
 # Step 5: my solution

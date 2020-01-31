@@ -1,12 +1,11 @@
 # Step 1: find a data visualization
 
-The I found is from tabuleau public. The link is:
+The figure I found is from tabuleau public. Data of this figure could be accessed by clicking the download button on the right below of the graph. The link is:
 
 https://public.tableau.com/en-us/gallery/revenue-football-clubs?tab=viz-of-the-day&type=viz-of-the-day
 
-Data of this figure could be accessed by clicking the download button on the right below of the graph.
 
-Screenshot of the image:
+There is something woring with the tableau public embedding. I attached a screenshot of the figure:
 ![](images/FootballClubRevenue.png)
 
 # Step 2: critique the data visualization

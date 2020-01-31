@@ -82,3 +82,8 @@ Below is the answers I got from asking my friends:
 
 
 # Step 5: my solution
+Published on tableau public:
+
+https://public.tableau.com/profile/jiang.chang#!/vizhome/Football_Revenue/Dashboard1?publish=yes
+
+Screenshot ttached here:

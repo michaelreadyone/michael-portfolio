@@ -9,8 +9,16 @@ There is something woring with the tableau public embedding. I attached a screen
 ![](images/FootballClubRevenue.png)
 
 # Step 2: critique the data visualization
-Submitted in google form
-Some question:
+
+Answers also submitted in google form
+
+- Usefulness: 9
+- Completeness: 5
+- Perceptibility: 7
+- Truthfulness: 8
+- Intuitiveness: 7
+- Aesthetics: 7
+- Engagement: 6
 
 - Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?
     - What stood out:

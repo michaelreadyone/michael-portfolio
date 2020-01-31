@@ -87,3 +87,4 @@ Published on tableau public:
 https://public.tableau.com/profile/jiang.chang#!/vizhome/Football_Revenue/Dashboard1?publish=yes
 
 Screenshot ttached here:
+![](images/FootballRevenue_Modify.png)

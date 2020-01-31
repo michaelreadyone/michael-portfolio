@@ -5,7 +5,7 @@ The figure I found is from tabuleau public. Data of this figure could be accesse
 https://public.tableau.com/en-us/gallery/revenue-football-clubs?tab=viz-of-the-day&type=viz-of-the-day
 
 
-There is something woring with the tableau public embedding. I attached a screenshot of the figure:
+There is something wrong with the tableau public embedding. I attached a screenshot of the figure:
 ![](images/FootballClubRevenue.png)
 
 # Step 2: critique the data visualization
@@ -39,7 +39,7 @@ Answers also submitted in google form
       - bar legend modification
       
 - Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?
-  - Pramiary aucidence would be football fans, investers, managers in football business and people who are generall interested in football. This visualization is effective for reaching the audience, it clearly showed the rank and revenue for the top 20 football clubs and the English clubs. However, it could do better.
+  - Primary audience would be football fans, investors, managers in football business and people who are generally interested in football. This visualization is effective for reaching the audience, it clearly showed the rank and revenue for the top 20 football clubs and the English clubs. However, it could do better.
 
 - Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)
   - This method delivers a comprehensive evaluation of data viz from many perspective and also present the result in an eye-friendly visualization. However, all those questions are somewhat highlevel questions without pointing to the details of paragraph like what type of chart should you choose and how do like the legend of each axis. The recommedations are: 
@@ -72,7 +72,7 @@ Below is the answers I got from asking my friends:
 
 
 - Who do you think is the intended audience for this?
-    - hooper fan, fan of football, sport television, football game player
+    - fan of football, sport television, football game player
     - People who likes football, company who engaging get profit to get more money
 
 

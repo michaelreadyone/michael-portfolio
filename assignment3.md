@@ -23,7 +23,7 @@ Answers also submitted in google form
 - Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?
     - What stood out:
       - a bar chart
-      - Revenue
+      - Revenue ranks
     - Worked really well:
       - clear ranking of top 20 clubs
       - highlight English clubs 
@@ -61,23 +61,24 @@ Below is the answers I got from asking my friends:
 
 
 - Can you describe to me what this is telling you?
-    - England taks most part
-    - How much the revenue for each club,
+    - England clubs take the most part
+    - How much is the revenue for each club
 
 
 - Is there anything you find surprising or confusing?
     - Revenue composition
-    - Number of legends, Team name
+    - club names are not familiar with people unfamiliar with football
+    - value of each bar
 
 
 - Who do you think is the intended audience for this?
-    - hupo fan, fan of football, sport television, football game player
+    - hooper fan, fan of football, sport television, football game player
     - People who likes football, company who engaging get profit to get more money
 
 
 - Is there anything you would change or do differently?
-    - Modify legend 
-    - Color the legend into corresponding color
+    - Modify the legends
+    - Color the legend into corresponding color with the bar
 
 
 # Step 5: my solution

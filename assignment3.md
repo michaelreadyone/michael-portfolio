@@ -42,7 +42,8 @@ Some question:
 
 
 # Step 3: wireframe a solution
-
+Attached is my sketch:
+![](images/FootballClubRevenue.png)
 
 
 # Step 4: test the solution

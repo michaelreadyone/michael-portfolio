@@ -19,7 +19,6 @@ Answers also submitted in google form
 - Intuitiveness: 7
 - Aesthetics: 7
 - Engagement: 6
-
 - Describe your overall observations about the data visualization here. What stood out to you? What did you find worked really well? What didn't? What, if anything, would you do differently?
     - What stood out:
       - a bar chart
@@ -27,20 +26,16 @@ Answers also submitted in google form
     - Worked really well:
       - clear ranking of top 20 clubs
       - highlight English clubs 
-    
     - Didn't work well:
       - width of the bar is unnecessary
       - no other country is listed 
       - repeated legend info in each bar
-    
     - I want to do differently:
       - add a graph to comparing English vs other countries
       - unify the bar width
-      - bar legend modification
-      
+      - bar legend modification      
 - Who is the primary audience for this tool? Do you think this visualization is effective for reaching that audience? Why or why not?
   - Primary audience would be football fans, investors, managers in football business and people who are generally interested in football. This visualization is effective for reaching the audience, it clearly showed the rank and revenue for the top 20 football clubs and the English clubs. However, it could do better.
-
 - Final thoughts: how successful what this method at evaluating the data visualization you selected? Are there measures you feel are missing or not being captured here? What would you change? Provide 1-2 recommendations (color, type of visualization, layout, etc.)
   - This method delivers a comprehensive evaluation of data viz from many perspective and also present the result in an eye-friendly visualization. However, all those questions are somewhat highlevel questions without pointing to the details of paragraph like what type of chart should you choose and how do like the legend of each axis. The recommedations are: 
     - How do you like the overall color arrangement of the figure? 
@@ -51,7 +46,7 @@ Answers also submitted in google form
 # Step 3: wireframe a solution
 Attached is my sketch:
 ![](images/sketch.PNG)
-For the the things I want change which I mentioned before, I first add another bar chart to show the comparison between each country among top 20 football clubs by revenue. In stead of highlighting the English clubs, I color all clubs based on their country and I also use this color in the new bar chart. By showing this chart with comparision among each country, audience will have more sense about how other countries behave in the revenue. I also put the unit of bar into headling so that the repeated unit on each bar will not show.
+For the the things I want change which I mentioned before, I first add another bar chart to show the comparison between each country among top 20 football clubs by revenue. In stead of highlighting the English clubs, I color all clubs based on their country and I also use this color in the new bar chart. By showing this chart with comparision among each country, audience will have more sense about how other countries behave in the revenue. I also put the unit of bar into headline so that the repeated unit on each bar will not show.
 
 # Step 4: test the solution
 Below is the answers I got from asking my friends:
@@ -90,7 +85,7 @@ https://public.tableau.com/profile/jiang.chang#!/vizhome/Football_Revenue/Dashbo
 Screenshot ttached here:
 ![](images/FootballRevenue_DIY.png)
 
-From the suggestions of peer review and other considerations, I delete the original country color legend and color the new barchart with the coressponding color. I add the name of X and Y axis and also put revenue unit in the X axis. I adjust the tick interval to make the figure look better. 
+From the suggestions of peer review and other considerations, I delete the original country color legend and color the new bar chart with the coressponding color. I add the name of X and Y axis and also put revenue unit in the X axis. I adjust the tick interval to make the figure look better. 
 
 
 

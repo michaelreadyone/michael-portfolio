@@ -85,7 +85,15 @@ Below is the answers I got from asking my friends:
 # Step 5: my solution
 Published on tableau public:
 
-https://public.tableau.com/profile/jiang.chang#!/vizhome/Football_Revenue/Dashboard1?publish=yes
+https://public.tableau.com/profile/jiang.chang#!/vizhome/Football_Revenue/Dashboard2?publish=yes
 
 Screenshot ttached here:
 ![](images/FootballRevenue_Modify.png)
+
+From the suggestions of peer review and other considerations, I delete the original country color legend and color the new barchart with the coressponding color. I add the name of X and Y axis and also put revenue unit in the X axis. I adjust the tick interval to make the figure look better. 
+
+
+
+
+
+

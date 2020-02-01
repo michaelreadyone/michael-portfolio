@@ -50,7 +50,7 @@ Answers also submitted in google form
 
 # Step 3: wireframe a solution
 Attached is my sketch:
-![](images/Sketch.PNG)
+![](images/sketch.PNG)
 For the the things I want change which I mentioned before, I first add another bar chart to show the comparison between each country among top 20 football clubs by revenue. In stead of highlighting the English clubs, I color all clubs based on their country and I also use this color in the new bar chart. By showing this chart with comparision among each country, audience will have more sense about how other countries behave in the revenue. I also put the unit of bar into headling so that the repeated unit on each bar will not show.
 
 # Step 4: test the solution

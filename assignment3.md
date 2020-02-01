@@ -51,7 +51,7 @@ Answers also submitted in google form
 # Step 3: wireframe a solution
 Attached is my sketch:
 ![](images/Sketch.PNG)
-
+For the the things I want change which I mentioned before, I first add another bar chart to show the comparison between each country among top 20 football clubs by revenue. In stead of highlighting the English clubs, I color all clubs based on their country and I also use this color in the new bar chart. By showing this chart with comparision among each country, audience will have more sense about how other countries behave in the revenue. I also put the unit of bar into headling so that the repeated unit on each bar will not show.
 
 # Step 4: test the solution
 Below is the answers I got from asking my friends:
@@ -78,7 +78,8 @@ Below is the answers I got from asking my friends:
 
 - Is there anything you would change or do differently?
     - Modify the legends
-    - Color the legend into corresponding color with the bar
+    - Color the country bar according to the club bar
+    
 
 
 # Step 5: my solution

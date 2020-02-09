@@ -11,13 +11,11 @@ Combining what I learned from this class, I want to choose the most effective wa
 
 
 
-- A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  Talk about the anticipated call to action and outline your user stories.
-
-
 
 - Story arc and elements
-  - Tension in the begining 
-    - NBA salaries
+  - (+)Salaries of NBA players 
+    - very high
+  - (-)Tension in the begining 
     - The height and weight distribution for NBA players and show that it is difficuilt to be a NBA player
     - It's not easy to be a NBA players
   - Happy relief
@@ -68,7 +66,7 @@ Information of drafted players is from here.
 
 
 # Method and medium
-The whole project will be built upon the outlines. More details like() may be added to the project and the dataviz will be realized in Shorthand platform.
+The whole project will be built upon the outlines. Some charts may be redesigned to better convey the idea of the project. More details like() may be added to the project and the dataviz will be realized in Shorthand platform.
 
 
 

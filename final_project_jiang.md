@@ -1,17 +1,77 @@
 # Outline
-- A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
+
+- Summary
+  This is a project about the data visualization of some interestings fact about NBA from 2000 to 2016. As a person interested in Basketball, NBA is defenitely a big place to pay attention to. From those public datas about NBA I want to know many things including but not limit to:
+    - What are the weights and hieights distribution for NBA players?
+    - What are the weights and hieights distribution for NBA all star players?
+    - Are the player's salary matching their performance?
+    - Are top drafted players doing better than other players?
+    - What are the portions of foreign players in NBA and how did they performance?
+Combining what I learned from this class, I want to choose the most effective ways of visualization to demostrate those ideas. 
+
+
+
 - A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  Talk about the anticipated call to action and outline your user stories.
 
-- Story arc
+
+
+- Story arc and elements
+  - Tension in the begining 
+    - NBA salaries
+    - The height and weight distribution for NBA players and show that it is difficuilt to be a NBA player
+    - It's not easy to be a NBA players
+  - Happy relief
+    - Among all NBA players, all star players don't outstand other players in those standards(also provide some T test for picky audience)
+    - This tell us as long as you are in one area, like us, some will be data analyst in the future, your pythical condition can not stop from you being a outstanding data analyst
+  - Another way to proof this
+    - show how top drafted players perform during next five year, including the salary, game performance index.
+  - Create another tenstion
+    - By far, how do you think the portion of foreign players in NBA? show the portion of foreign players overall.
+  - Relief again
+    - NBA is open to more and more players around the world. Just train hard and you will get the oppotunity.
+  - Call for action
+    - love what you love, do what you do. Don't feel unqualified if you are not a top beginner in the road, also don't feel overpride if you begin your job with a high skilled equipment. Stick to the things that you love and work hard and you will get the job done
+    - It doesn't matter that much if you are a top pic or not, this also applies everwhere. You need to work hard to get to your goal. You don't need to be dicoffident if you didn't start as a top biginner. You also need to word hard if you are a top biginner.
+
+- A picture here to show story arc
+ 
+
 
 
 # Sketches
-We've explored how sketching can be a great way to help solidify your ideas into design choices, and for your proposal you'll be creating sketches that outline your initial thoughts for your final project.  You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion you feel makes the most sense - but they should be clear enough to be understandable to someone that has little to no contextual background for your project.  Your sketches should mimic aspects of your outline, and build on the resounding message you want to make clear through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have to be visually correct / accurate and you may use whatever method makes the most sense to you (hand-drawn, digital, etc.). 
+-show tensions and relifs here
+
+
 
 # Data
-- A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-- A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+Data 1 :
+NBA players data
+https://www.kaggle.com/justinas/nba-players-data
+General information of NBA player data will be extracted here.
 
-- data sources
+Data 2:
+NBA all star games 2000-2016
+https://www.kaggle.com/fmejia21/nba-all-star-game-20002016
+General information of all star NBA player data will be extracted here.
+
+
+Data 3:
+NBA - Player Salary (1990-2017)
+https://www.kaggle.com/whitefero/nba-player-salary-19902017
+Salary information of NBA players will be extracted here.
+
+Data 4:
+NBA Draft 1980-2017
+https://www.kaggle.com/pmp5kh/nba-draft-19802017
+Information of drafted players is from here.
+
+
 
 # Method and medium
+The whole project will be built upon the outlines. More details like() may be added to the project and the dataviz will be realized in Shorthand platform.
+
+
+
+
+
+

@@ -1,6 +1,6 @@
 # Outline
 
-- Summary
+**Summary**
 
 This is a project about the showing the stories and data visualization of some interesting facts about NBA. As a basketball fan, NBA is defenitely a big place to pay attention to. I konw that all NBA palyers are very tall and strong, and their salaries are also crazy high. However, I want to know the exact values of their heights, weights and salaries. I also want to dig more information from those players. I want to know many things including but not limit to:
     - What are the weights and hieights distribution for NBA players?
@@ -14,7 +14,7 @@ Besides, what inspiration could those data bring to people? Most people, for sur
 
 
 
-- Story arc and elements
+**Story arc and elements**
   - arc drawing:
   ![](images/StoryArc.png)
   

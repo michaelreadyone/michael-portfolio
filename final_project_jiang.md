@@ -15,7 +15,7 @@ Besides, what inspiration could those data bring to people? Most people, for sur
 
 
 **Story arc and elements**
-  - arc drawing:
+  arc drawing:
   ![](images/StoryArc.png)
   
   

@@ -79,7 +79,7 @@ Besides, what inspiration could those data bring to people? Most people, for sur
 
 
 # Method and medium
-For this project, I started here in Github to give some initial ideas with outlines and sketches. Based on the story arc and elements. I will add more details into those structures and I will continue digging more interesting stories and adding more insightful data visualizations from those data about NBA players. I will tried most visualization tools from the class and choose the most effective ways to do the data visualization. I will also frequently ask my peers to review my work and give me feedback so that I know my ideas are accurately and concisely demonstrated. From the demonstration of Shorthand in class, I found that this would be a great tool to show my idea and therefore I will choose Shorthand as my project platform.
+For this project, I started here in GitHub to give some initial ideas with outlines and sketches. Based on the story arc and elements. I will add more details into those structures and I will continue digging more interesting stories and adding more insightful data visualizations from those data about NBA players. I will tried most visualization tools from the class and choose the most effective ways to do the data visualization. I will also frequently ask my peers to review my work and give me feedback so that I know my ideas are accurately and concisely demonstrated. From the demonstration of Shorthand in class, I found that this would be a great tool to show my idea and therefore I will choose Shorthand as my project platform.
 
 
 

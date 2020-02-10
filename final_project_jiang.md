@@ -61,26 +61,21 @@ Besides, what inspiration could those data bring to people? Most people, for sur
 
 
 # Data
-Data 1 :
-NBA players data
-https://www.kaggle.com/justinas/nba-players-data
-General information of NBA player data will be extracted here.
+- Data 1: NBA players data
+    - https://www.kaggle.com/justinas/nba-players-data
+    - General information of NBA player data will be extracted here.
 
-Data 2:
-NBA all star games 2000-2016
-https://www.kaggle.com/fmejia21/nba-all-star-game-20002016
-General information of all star NBA player data will be extracted here.
+- Data 2: NBA all star games 2000-2016
+    - https://www.kaggle.com/fmejia21/nba-all-star-game-20002016
+    - General information of all star NBA player data will be extracted here.
 
+- Data 3: NBA - Player Salary (1990-2017)
+    - https://www.kaggle.com/whitefero/nba-player-salary-19902017
+    - Salary information of NBA players will be extracted here.
 
-Data 3:
-NBA - Player Salary (1990-2017)
-https://www.kaggle.com/whitefero/nba-player-salary-19902017
-Salary information of NBA players will be extracted here.
-
-Data 4:
-NBA Draft 1980-2017
-https://www.kaggle.com/pmp5kh/nba-draft-19802017
-Information of drafted players is from here.
+- Data 4: NBA Draft 1980-2017
+    - https://www.kaggle.com/pmp5kh/nba-draft-19802017
+    - Information of drafted players is from here.
 
 
 

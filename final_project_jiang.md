@@ -1,13 +1,15 @@
 # Outline
 
 - Summary
-  This is a project about the data visualization of some interestings fact about NBA from 2000 to 2016. As a person interested in Basketball, NBA is defenitely a big place to pay attention to. From those public datas about NBA I want to know many things including but not limit to:
+
+This is a project about the showing the stories and data visualization of some interesting facts about NBA. As a basketball fan, NBA is defenitely a big place to pay attention to. I konw that all NBA palyers are very tall and strong, and their salaries are also crazy high. However, I want to know the exact values of their heights, weights and salaries. I also want to dig more information from those players. I want to know many things including but not limit to:
     - What are the weights and hieights distribution for NBA players?
     - What are the weights and hieights distribution for NBA all star players?
     - Are the player's salary matching their performance?
     - Are top drafted players doing better than other players?
     - What are the portions of foreign players in NBA and how did they performance?
-Combining what I learned from this class, I want to choose the most effective ways of visualization to demostrate those ideas. 
+    
+Besides, what inspiration could those data bring to people? Most people, for sure, do not have those exceptional body characteristics. What can we learn from the data from those NBA giants? To answer those questions, I found some very useful public data about NBA from Kaggle. Combining what I learned from this class, I want to choose the most effective ways of visualization to show the data and also want to discover the inspiration of those data to people. 
 
 
 

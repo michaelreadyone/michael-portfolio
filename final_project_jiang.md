@@ -15,6 +15,10 @@ Besides, what inspiration could those data bring to people? Most people, for sur
 
 
 - Story arc and elements
+  - arc drawing:
+  ![](images/StoryArc.PNG)
+  
+  
   - (+)Salaries of NBA players 
     - very high
   - (-)Tension in the begining 

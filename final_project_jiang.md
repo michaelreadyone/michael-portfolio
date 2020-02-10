@@ -42,7 +42,21 @@ Besides, what inspiration could those data bring to people? Most people, for sur
  
 
 # Sketches
--show tensions and relifs here
+- Stage A
+![](images/A.png)
+
+- Stage B
+![](images/B.png)
+
+- Stage C
+![](images/C.png)
+
+- Stage D
+![](images/D.png)
+
+- Stage E
+![](images/E.png)
+
 
 
 

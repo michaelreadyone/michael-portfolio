@@ -19,28 +19,27 @@ Besides, what inspiration could those data bring to people? Most people, for sur
   ![](images/StoryArc.png)
   
   
-  - (+)Salaries of NBA players 
-    - very high
-  - (-)Tension in the begining 
+  - (+) Stage A
+    - Very high salaries of NBA players 
+  - (-) Stage B
+    - Create tension 
     - The height and weight distribution for NBA players and show that it is difficuilt to be a NBA player
     - It's not easy to be a NBA players
-  - Happy relief
+  - (+) Stage C
+    - Create relief
     - Among all NBA players, all star players don't outstand other players in those standards(also provide some T test for picky audience)
     - This tell us as long as you are in one area, like us, some will be data analyst in the future, your pythical condition can not stop from you being a outstanding data analyst
-  - Another way to proof this
-    - show how top drafted players perform during next five year, including the salary, game performance index.
-  - Create another tenstion
+    - ALso show how top drafted players perform during next five year, including the salary, game performance index.
+  - (-) Stage D
+    - Create another tenstion
     - By far, how do you think the portion of foreign players in NBA? show the portion of foreign players overall.
-  - Relief again
+  - (+) Stage E
+    - Relief again
     - NBA is open to more and more players around the world. Just train hard and you will get the oppotunity.
   - Call for action
     - love what you love, do what you do. Don't feel unqualified if you are not a top beginner in the road, also don't feel overpride if you begin your job with a high skilled equipment. Stick to the things that you love and work hard and you will get the job done
     - It doesn't matter that much if you are a top pic or not, this also applies everwhere. You need to work hard to get to your goal. You don't need to be dicoffident if you didn't start as a top biginner. You also need to word hard if you are a top biginner.
-
-- A picture here to show story arc
  
-
-
 
 # Sketches
 -show tensions and relifs here

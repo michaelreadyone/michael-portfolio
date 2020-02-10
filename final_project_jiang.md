@@ -33,11 +33,11 @@ Besides, what inspiration could those data bring to people? Most people, for sur
     - By far, how do you think about the portion of foreign players in NBA? show the portion of foreign players overall.
   - (+) Stage E
     - Relief again
-    - Show the changing rate of foreign playes in the league.
+    - Show the changing rate of foreign players in the league.
     - NBA is open to more and more players around the world. Just train hard and you will get the opportunity.
   - Call for action
-    - love what you love, do what you do. Don't feel unqualified if you are not a talented person in you area. also don't feel overpround if you already have some accoplishment in your area. Stick to the area that you love and work hard and you will achieve your goal.
-    - It doesn't matter where you come from. As long as you work hard towards your target, you will get an acception and acknowledge in U.S. 
+    - love what you love, do what you do. Don't feel unqualified if you are not a talented person in your area. Don't feel over proud if you already have some accomplishment in your area. Stick to the area that you love and work hard and you will achieve your goal.
+    - It doesn't matter where you come from. As long as you work hard towards your target, you will get the acceptance and acknowledge in U.S. 
  
 
 # Sketches
@@ -62,11 +62,11 @@ Besides, what inspiration could those data bring to people? Most people, for sur
 # Data
 - Data 1: NBA players data
     - https://www.kaggle.com/justinas/nba-players-data
-    - General information of NBA player data will be used from this resource. Player heights and weights will be applide to draw distribution graphs.
+    - General information of NBA player data will be used from this resource. Player heights and weights will be applied to draw distribution graphs.
 
-- Data 2: NBA all star games 2000-2016
+- Data 2: NBA all-star games 2000-2016
     - https://www.kaggle.com/fmejia21/nba-all-star-game-20002016
-    - General information of all-star NBA player data will be extracted here. Heights and weights information will be added to the comparision between NBA players vs NBA all-star players graphs.
+    - General information of all-star NBA player data will be extracted here. Heights and weights information will be added to the comparison between NBA players vs NBA all-star players graphs.
 
 - Data 3: NBA - Player Salary (1990-2017)
     - https://www.kaggle.com/whitefero/nba-player-salary-19902017
@@ -74,12 +74,12 @@ Besides, what inspiration could those data bring to people? Most people, for sur
 
 - Data 4: NBA Draft 1980-2017
     - https://www.kaggle.com/pmp5kh/nba-draft-19802017
-    - Information of drafted players is from here. A performance tracking will be show from this data to show how those top drafted player perform through the years. And more insteresting charts may be generated from here.
+    - Information of drafted players is from here. A performance tracking will be show from this data to show how those top drafted player perform through the years. And possibly more interesting charts will be generated from here.
 
 
 
 # Method and medium
-For this project, I started here in github to give some initial ideas with outlines and sketches. Based on the stroy arc and elements. I will add more details into those structures and I will continue diging more interesting stories and adding more insightful data visualizations from those data about NBA players. I will tried most vistualization tools from the class and choose the most effective ways to do the data visualization. I will also frequently ask my peers to review my work and give me feedback so that I know my ideas are properply demonstrated. From the demonstration of Shorthand in class, I found that this would be a great tool to show my idea and therefore I will choose Shorthand as my project platform.
+For this project, I started here in Github to give some initial ideas with outlines and sketches. Based on the story arc and elements. I will add more details into those structures and I will continue digging more interesting stories and adding more insightful data visualizations from those data about NBA players. I will tried most visualization tools from the class and choose the most effective ways to do the data visualization. I will also frequently ask my peers to review my work and give me feedback so that I know my ideas are accurately and concisely demonstrated. From the demonstration of Shorthand in class, I found that this would be a great tool to show my idea and therefore I will choose Shorthand as my project platform.
 
 
 

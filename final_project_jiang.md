@@ -80,7 +80,7 @@ Besides, what inspiration could those data bring to people? Most people, for sur
 
 
 # Method and medium
-The whole project will be built upon the outlines. Some charts may be redesigned to better convey the idea of the project. More details like() may be added to the project and the dataviz will be realized in Shorthand platform.
+- For this project, I started here from github to giving some initial ideas with outlines and sketches. Based on the stroy arc and elements. I will continue to think about diging more interesting stories and adding more insightful data visualizations. I will tried most vistualization tools from the class and choose the best ways to do the data visualization. I will frequently ask my peers to review my work and give me feedback so that I know my ideas are properply demonstrated. From the demonstration of Shorthand in class, I found that this would be a great tool to show my idea and therefore I will choose Shorthand as my project platform.
 
 
 

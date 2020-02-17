@@ -1,5 +1,5 @@
 # Wireframe
-In the wireframe I am trying to piece everything together to guarrantee both the diversity and consistency. My topic is about a college student's inspration from his NBA dream. I divided the whole topic into four part: Origin, Curiosity, Research and Inspiration. This line is derived from Part I and I found this is a better stucture for telling the story.
+In the wireframe I am trying to piece everything together to guarrantee both the diversity and consistency. My topic is about a college student's inspration from his NBA dream. I divided the whole topic into four part: Origin, Curiosity, Research and Inspiration. This structure is derived from part I.
 
 
 # Storyborad

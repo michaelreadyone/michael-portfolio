@@ -5,6 +5,9 @@ In the wireframe I am trying to piece everything together to guarrantee both the
 # Storyborad
 How the story is built upon the story line from part one. Here, I start my story by presenting a fictitious international college student who love both his major-computer science and basketball. He wants to be a good programmer in the future but he also dreams about playing basketball in NBA. He does some research of NBA players' data and realized that it would be very hard for him to be a NBA player. Meanwhile, he also feels pressure in his major because he think most of his classmates are better then him. Then he wants to see among all NBA players, do all-star NBA players have advantages in heights and weights? To his surprise, all-star players alomost have the same heights and weights comparing to all players. This brings some confidence to him, now even though he think most his classmates are better than him(maybe not), but he knows that those conditions won't stop him from being a good student in computer science and have a good career in the future. His another concern is 
 
+  ![](images/storyBoard1.png)
+  ![](images/storyBoard2.png)
+
 # User research
 Interviewee A
 - Did you know this information before reading the story?

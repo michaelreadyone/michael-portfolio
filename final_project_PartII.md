@@ -57,3 +57,12 @@ Interviewee C
 
 
 # Reference
+- College student picture
+- https://www.uml.edu/Images/Computer-Science-Student-800_tcm18-235070.jpg
+
+- NBA playing
+- https://a.espncdn.com/photo/2019/1020/nba_new_season_preview_1296x729.jpg
+
+- Career picture
+- https://ismartlearn.com/wp-content/uploads/2019/05/career-options-647.jpeg
+

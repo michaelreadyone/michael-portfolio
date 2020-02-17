@@ -15,6 +15,8 @@ Will be updated.
 
 [Link to Assighment3](/assignment3.md)
 
-[Link to Final Project](/final_project_jiang.md)
+[Link to Final Project Part I](/final_project_jiang.md)
+
+[Link to Final Project Part II](/final_project_PartII.md)
 
 

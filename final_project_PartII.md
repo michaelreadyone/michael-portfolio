@@ -1,14 +1,13 @@
-# Wireframe
-In the wireframe I am trying to piece everything together to guarrantee both the diversity and consistency. My topic is about a college student's inspration from his NBA dream. I divided the whole topic into four part: Origin, Curiosity, Research and Inspiration. This structure is derived from part I.
-  ![](images/wireframe1.png)
-  ![](images/wireframe2.png)
-
-
-# Storyborad
-How the story is built upon the story line from part one. Here, I start my story by presenting a fictitious international college student who love both his major-computer science and basketball. He wants to be a good programmer in the future but he also dreams about playing basketball in NBA. He does some research of NBA players' data and realized that it would be very hard for him to be a NBA player. Meanwhile, he also feels pressure in his major because he think most of his classmates are better then him. Then he wants to see among all NBA players, do all-star NBA players have advantages in heights and weights? To his surprise, all-star players alomost have the same heights and weights comparing to all players. This brings some confidence to him, now even though he think most his classmates are better than him(maybe not), but he knows that those conditions won't stop him from being a good student in computer science and have a good career in the future. His another concern is 
+# Storyboard
+Here the story begins by presenting a fictitious international college student who love both his major-computer science and basketball. He wants to be a good programmer in the future but he also dreams about playing basketball in NBA. He does some research of NBA players' data and realizes that it would be very hard for him to be a NBA player. Meanwhile, he also feels pressure in his major because he thinks most of his classmates are smarter than him. Then he wants to see among all NBA players, do all-star NBA players have advantages in physical conditions? To his surprise, all-star players almost have the same heights and weights comparing to all players. This brings confidence to him. Now he knows that those physical conditions won't stop him from being an excellent student in computer science and have a good career in the future. By checking the changing rate of foreign player also brings him the confidence that U.S. gives fare chance to foreign people as long as they work hard.
 
   ![](images/storyBoard1.png)
   ![](images/storyBoard2.png)
+
+# Wireframe
+In the wireframe I am trying to piece everything together to guarantee both the diversity and consistency. My topic is about a college student's inspiration from his NBA dream. I divided the whole topic into four part: Origin, Curiosity, Research and Inspiration. This structure is derived from part I.
+  ![](images/wireframe1.png)
+  ![](images/wireframe2.png)
 
 # User research
 Interviewee A
@@ -35,10 +34,9 @@ Interviewee B
 	- To show a linkage between foreign player could play a big role in US.
 - What did you find confusing? What would you change?
 	- The transition from NBA career dream to CS career happens too quick
-	- Describe this trainsition more reasonable.
+	- Describe this transition more reasonable.
 - Other questions?
 	- Make graph more clear, bigger.
-
 
 Interviewee C
 - Did you know this information before reading the story?
@@ -60,8 +58,9 @@ Interviewee C
 
 # Reference
 - College student picture: https://www.uml.edu/Images/Computer-Science-Student-800_tcm18-235070.jpg
-
 - NBA playing: https://a.espncdn.com/photo/2019/1020/nba_new_season_preview_1296x729.jpg
-
 - Career picture: https://ismartlearn.com/wp-content/uploads/2019/05/career-options-647.jpeg
+- Laptop picture: https://icdn6.digitaltrends.com/image/digitaltrends/school-coding-416x416.jpg
+- Playing basketball:https://mambasportsacademy.com/wp-content/uploads/2020/01/2-kids-playing-basketball-at-mamba-sports-academy.jpg
+
 

@@ -1,5 +1,7 @@
 # Wireframe
 In the wireframe I am trying to piece everything together to guarrantee both the diversity and consistency. My topic is about a college student's inspration from his NBA dream. I divided the whole topic into four part: Origin, Curiosity, Research and Inspiration. This structure is derived from part I.
+  ![](images/wireframe1.png)
+  ![](images/wireframe2.png)
 
 
 # Storyborad

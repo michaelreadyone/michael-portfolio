@@ -27,5 +27,6 @@ From all the reasults and feedback from Part I and Part II. I make follow change
 **Progress**
 
 link to the final data story
+
 https://carnegiemellon.shorthandstories.com/john-s-inspiration-from-his-nba-discoveries/index.html
 

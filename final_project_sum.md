@@ -24,7 +24,7 @@ From all the reasults and feedback from Part I and Part II. I make follow change
 
 **Audience**
 
-**Progress**
+**Summary**
 
 link to the final data story
 

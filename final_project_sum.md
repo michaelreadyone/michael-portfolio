@@ -5,11 +5,15 @@ This idea comes from my hobby: basketball. I like playing basketball very much a
 I tried to combine my story with story arc buying showing how different data from NBA shocked and inspired me. And I draw several scratch as a starting point of my project.
 
 Please check detailed work here:
-
 [Link to Project Outline](/final_project_jiang.md)
 
 # Design and user research
-To continue the project, I make the storyboard and also wireframe
+To further my story, I applied the techniques from class: storyboard and wirefram.
+I was new to storyboard. Even after some research, I still felt a little struggled to construct a story. Every story has its own leading role, but I don't have one. Suddenly, it occurred to me that why don't I depick a fictious person to be the lead of the story and share my inspiration within the story. Therefore, I created John, the lead of this story. After this, I begin to design the boards.
+
+I also tried to make some fluctuation in the stories because audience usually do not like a flat story line. Then I depict some mootion fluctuation of John within the story giving the data he got from NBA. At last, of course, we will call out that we should love our study, enjou our life and keep a good life balance.
+
+make the storyboard and also wireframe
 
 I also invited some classmates to preview my story for feedback 
 

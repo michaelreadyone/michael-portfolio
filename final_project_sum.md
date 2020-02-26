@@ -13,9 +13,7 @@ I was new to storyboard. Even after some research, I still felt a little struggl
 
 I also tried to make some fluctuation in the stories because audience usually do not like a flat story line. Then I depict some mootion fluctuation of John within the story giving the data he got from NBA. At last, of course, we will call out that we should love our study, enjou our life and keep a good life balance.
 
-make the storyboard and also wireframe
-
-I also invited some classmates to preview my story for feedback 
+I also invited some classmates to review my story for feedback. I will discuss details in next session.
 
 Please check detailed work here:
 [Link to design and user research](/final_project_PartII.md)
@@ -29,4 +27,5 @@ From all the reasults and feedback from Part I and Part II. I make follow change
 **Progress**
 
 link to the final data story
+https://carnegiemellon.shorthandstories.com/john-s-inspiration-from-his-nba-discoveries/index.html
 

@@ -23,6 +23,12 @@ Please check detailed work here:
 From all the reasults and feedback from Part I and Part II. I make follow changes and add more efforts to compelete the final story.
 
 **Audience**
+The majority audience of this story would be college students who have general interest in basketball and NBA. In the very begining, I found that people who also love basketball enjoyed my story much. but for people have barely knowledge in NBA  intended to tell the story to only NBA fans. After some interview I found for people who are unfamiliar with NBA, some detailed data about NBA may be confusing to them. The purpose of this story is not introducing NBA, is to show other people how you can get inspiration from your hobby and gain confidence in your study
+
+Then I decided to use some friendly statiscly
+
+
+
 
 **Summary**
 

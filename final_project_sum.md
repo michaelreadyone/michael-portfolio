@@ -1,8 +1,6 @@
 
 # The idea
-This idea comes from my hobby: basketball. I like playing basketball very much and I am interested in every aspect of NBA. During my busy study in school, playing basketball makes me feel fresh and keeps me healthy. I want to share some inspirations that I got from basketball. 
-
-I tried to combine my story with story arc buying showing how different data from NBA shocked and inspired me. And I draw several scratch as a starting point of my project.
+This idea comes from my hobby: basketball. I like playing basketball very much and I am interested in every aspect of NBA. During my busy study in school, playing basketball makes me feel fresh and keeps me healthy. I want to share some inspirations that I got from basketball. I tried to combine my story with story arc buying showing how different data from NBA shocked and inspired me. And I draw several scratch as a starting point of my project.
 
 Please check detailed work here:
 [Link to Project Outline](/final_project_jiang.md)
@@ -23,16 +21,59 @@ Please check detailed work here:
 From all the reasults and feedback from Part I and Part II. I make follow changes and add more efforts to compelete the final story.
 
 **Audience**
-The majority audience of this story would be college students who have general interest in basketball and NBA. In the very begining, I found that people who also love basketball enjoyed my story much. but for people have barely knowledge in NBA  intended to tell the story to only NBA fans. After some interview I found for people who are unfamiliar with NBA, some detailed data about NBA may be confusing to them. The purpose of this story is not introducing NBA, is to show other people how you can get inspiration from your hobby and gain confidence in your study
+The majority audience of this story were college students who have general interest in basketball and NBA. In the very begining, I found that people who love basketball enjoyed my story much a lot. However, I also found for people who are unfamiliar with NBA, some detailed data and information may be confusing to them. The purpose of this story should be more than sharing the excitement with NBA fans. I also want more people to find inspiration from my story.
 
-Then I decided to use some friendly statiscly
-
-
+To achieve this, I showed more friendly statistics and data visualization. I emphasized the process how John get inspiration from the story instead of describing a lot of NBA knowledge. And I make a common but meaningful call for action in the end to rise the inspiration of more audience.
 
 
 **Summary**
+There were certain many obstables on my way to finish the project. I came from a engeneering background and seldom deal with so many details of telling a story. I struggle the most in construting the storyboard, as I mentioned before. However, every time I figured out a way to solve my problem I felt generalty happy for myself.
 
+
+
+**The data story**
 link to the final data story
 
 https://carnegiemellon.shorthandstories.com/john-s-inspiration-from-his-nba-discoveries/index.html
+
+**Reference**
+NBA players data
+- https://www.kaggle.com/justinas/nba-players-data
+
+NBA all-star games 2000-2016
+- https://www.kaggle.com/fmejia21/nba-all-star-game-20002016
+
+NBA - Player Salary (1990-2017)
+- https://www.kaggle.com/whitefero/nba-player-salary-19902017
+
+College student picture
+-https://www.uml.edu/Images/Computer-Science-Student-800_tcm18-235070.jpg
+
+NBA logo
+-https://zon.it/wp-content/uploads/2019/05/nba2.jpg
+
+NBA team logo
+-https://sportskevijesti.com/wp-content/uploads/2017/03/asf.jpg
+
+Hoop
+-https://i0.wp.com/www.nafpaktianews.gr/wp-content/uploads/2019/05/basket-background.jpg?fit=1920%2C1200&ssl=1
+
+Dunk
+-http://wallpapersexpert.com/data/out/53/3760045-nba-wallpapers.jpg
+
+Suit background
+-https://teleran.com/wp-content/uploads/2016/12/pii-security-risks.jpg
+
+Believe you can
+-https://parade.com/wp-content/uploads/2020/01/dont-give-up-quotes.jpg
+
+Playing basketball
+-https://dunkorthree.com/wp-content/uploads/play-basketball-grow-tall.png
+
+Do what you love
+-https://quotefancy.com/quote/136332/Wayne-W-Dyer-Love-what-you-do-Do-what-you-love
+
+
+
+
 

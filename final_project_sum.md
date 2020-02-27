@@ -22,9 +22,7 @@ To achieve this, I showed more friendly statistics and data visualization. I emp
 
 
 
-# The final data story
-link to the final data story
-
+# The final data story website
 https://carnegiemellon.shorthandstories.com/john-s-inspiration-from-his-nba-discoveries/index.html
 
 # Reference

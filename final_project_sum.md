@@ -23,7 +23,7 @@ To achieve this, I showed more friendly statistics and data visualization. I emp
 
 
 # The final data story website
-https://carnegiemellon.shorthandstories.com/john-s-inspiration-from-his-nba-discoveries/index.html
+[https://carnegiemellon.shorthandstories.com/john-s-inspiration-from-his-nba-discoveries/index.html](https://carnegiemellon.shorthandstories.com/john-s-inspiration-from-his-nba-discoveries/index.html)
 
 # Reference
 NBA players data

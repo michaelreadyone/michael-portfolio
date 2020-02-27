@@ -1,10 +1,10 @@
 
 # Summarize
-[The idea](/final_project_jiang.md)
+[**The idea**](/final_project_jiang.md)
 
 This idea comes from my hobby: basketball. I like playing basketball very much and I am interested in every aspect of NBA. During my busy study in school, playing basketball makes me feel fresh and keeps me healthy. I want to share some inspirations that I got from basketball. I tried to combine my story with story arc buying showing how different data from NBA shocked and inspired me. And I draw several scratch as a starting point of my project.
 
-[Design and user research](/final_project_PartII.md)
+[**Design and user research**](/final_project_PartII.md)
 
 To further my story, I applied the techniques from class: storyboard and wirefram.
 I was new to storyboard. Even after some research, I still felt a little struggled to construct a story. Every story has its own leading role, but I don't have one. Suddenly, it occurred to me that why don't I depick a fictious person to be the lead of the story and share my inspiration within the story. Therefore, I created John, the lead of this story. After this, I begin to design the boards.

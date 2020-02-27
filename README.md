@@ -19,6 +19,6 @@ Will be updated.
 
 [Link to Final Project Part II](/final_project_PartII.md)
 
-[Link to Final Project Summarize](/final_project_sum.md)
+[Link to Final Project Part III](/final_project_sum.md)
 
 

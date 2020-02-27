@@ -1,17 +1,13 @@
 
 # Summarize
+[Project Outline](/final_project_jiang.md)
 This idea comes from my hobby: basketball. I like playing basketball very much and I am interested in every aspect of NBA. During my busy study in school, playing basketball makes me feel fresh and keeps me healthy. I want to share some inspirations that I got from basketball. I tried to combine my story with story arc buying showing how different data from NBA shocked and inspired me. And I draw several scratch as a starting point of my project.
 
-Please check detailed work here:
-[Link to Project Outline](/final_project_jiang.md)
-
+[Story design and user research](/final_project_PartII.md)
 To further my story, I applied the techniques from class: storyboard and wirefram.
 I was new to storyboard. Even after some research, I still felt a little struggled to construct a story. Every story has its own leading role, but I don't have one. Suddenly, it occurred to me that why don't I depick a fictious person to be the lead of the story and share my inspiration within the story. Therefore, I created John, the lead of this story. After this, I begin to design the boards.
 
 I also tried to make some fluctuation in the stories because audience usually do not like a flat story line. Then I depict some mootion fluctuation of John within the story giving the data he got from NBA. At last, of course, we will call out that we should love our study, enjou our life and keep a good life balance. I also invited some classmates to review my story for feedback. I will discuss more in audience session.
-
-Please check detailed work here:
-[Link to design and user research](/final_project_PartII.md)
 
 Combined with all research before, I began to put togethe my story in shorthand, a powerful visulization website tool. It did take some time to learn the operation of shorthand. However, After I got the basics, I found it enjoyable to throw my creation on the website. Together with the powerful dataviz embedding, I finished my final story step by step.
 
@@ -20,10 +16,8 @@ The majority audience of this story were college students who have general inter
 
 To achieve this, I showed more friendly statistics and data visualization. I emphasized the process how John get inspiration from the story instead of describing a lot of NBA knowledge. And I make a common but meaningful call for action in the end to rise the inspiration of more audience.
 
-
-
 # The final data story website
-##[John's inspiration from his NBA discovery](https://carnegiemellon.shorthandstories.com/john-s-inspiration-from-his-nba-discoveries/index.html)
+[John's inspiration from his NBA discovery](https://carnegiemellon.shorthandstories.com/john-s-inspiration-from-his-nba-discoveries/index.html)
 
 # Reference
 NBA players data

@@ -2,12 +2,12 @@
 # Summarize
 ### **The idea**
 
-This idea comes from my hobby: basketball. I like playing basketball very much and I am interested in every aspect of NBA. During my busy study in school, playing basketball makes me feel fresh and keeps me healthy. I want to share some inspirations that I got from basketball. I tried to combine my story with story arc bying showing how different data from NBA shocked and inspired me. And I draw several scratches as a starting point of my project.[Link to part I](/final_project_jiang.md)
+This idea comes from my hobby: basketball. I like playing basketball very much and I am interested in every aspect of NBA. During my busy study in school, playing basketball makes me feel fresh and keeps me healthy. I want to share some inspirations that I got from basketball. I tried to combine my story with story arc by showing how different data from NBA shocked and inspired me. And I draw several scratches as a starting point of my project.[Link to part I](/final_project_jiang.md)
 
 ### **Design and user research**
 
 To further my story, I applied the techniques from class: storyboards and wireframes.
-I was new to storyboards. Even after some research, I still felt a little struggled to construct the storyboards. Every story has its own leading role, but I didn't have one. Suddenly, it occurred to me that why don't I create a fictious person to lead the story and share my inspiration within the story. Therefore, I created John, the lead of this story. After this, my storyborads progressed more smoothly. 
+I was new to storyboards. Even after some research, I still felt a little struggled to construct the storyboards. Every story has its own leading role, but I didn't have one. Suddenly, it occurred to me that why don't I create a fictitious person to lead the story and share my inspiration within the story. Therefore, I created John, the lead of this story. After this, my storyboards progressed more smoothly. 
 
 I also tried to make some fluctuation in the stories because audience usually do not like a flat story line. Then I built some emotional turns of John caused by his viewing of NBA data. At last, I have a call for action that we should love our study, enjoy our life and keep a good life balance. I also invited some classmates to review my story for feedback. I will discuss more in audience session.[Link to part II](/final_project_PartII.md)
 

@@ -19,7 +19,7 @@ The majority audience of this story were college students who have general inter
 To achieve this, I showed more friendly statistics and data visualization. I emphasized the process how John get inspiration from the story instead of describing a lot of NBA knowledge. And I make a common but meaningful call for action in the end to rise the inspiration of more audience.
 
 # The final data story website
-[John's inspiration from his NBA discovery](https://carnegiemellon.shorthandstories.com/john-s-inspiration-from-his-nba-discoveries/index.html)
+[**JOHN'S INSPIRATION FROM HIS NBA DISCOVERY**](https://carnegiemellon.shorthandstories.com/john-s-inspiration-from-his-nba-discoveries/index.html)
 
 # Reference
 NBA players data

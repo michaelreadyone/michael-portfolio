@@ -13,7 +13,7 @@ I also tried to make some fluctuation in the stories because audience usually do
 Please check detailed work here:
 [Link to design and user research](/final_project_PartII.md)
 
-After those work, I began to put togethe my story in shorthand, a powerful visulization website tool.
+Combined with all research before, I began to put togethe my story in shorthand, a powerful visulization website tool. It did take some time to learn the operation of shorthand. However, After I got the basics, I found it enjoyable to throw my creation on the website. Together with the powerful dataviz embedding, I finished my final story step by step.
 
 # Audience
 The majority audience of this story were college students who have general interest in basketball and NBA. In the very begining, I found that people who love basketball enjoyed my story much a lot. However, I also found for people who are unfamiliar with NBA, some detailed data and information may be confusing to them. The purpose of this story should be more than sharing the excitement with NBA fans. I also want more people to find inspiration from my story.

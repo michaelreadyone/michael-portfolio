@@ -28,37 +28,37 @@ NBA players data
 -[https://www.kaggle.com/justinas/nba-players-data](https://www.kaggle.com/justinas/nba-players-data)
 
 NBA all-star games 2000-2016
--https://www.kaggle.com/fmejia21/nba-all-star-game-20002016
+-[https://www.kaggle.com/fmejia21/nba-all-star-game-20002016](https://www.kaggle.com/fmejia21/nba-all-star-game-20002016)
 
 NBA - Player Salary (1990-2017)
--https://www.kaggle.com/whitefero/nba-player-salary-19902017
+-[https://www.kaggle.com/whitefero/nba-player-salary-19902017](https://www.kaggle.com/whitefero/nba-player-salary-19902017)
 
 College student picture
--https://www.uml.edu/Images/Computer-Science-Student-800_tcm18-235070.jpg
+-[https://www.uml.edu/Images/Computer-Science-Student-800_tcm18-235070.jpg](https://www.uml.edu/Images/Computer-Science-Student-800_tcm18-235070.jpg)
 
 NBA logo
--https://zon.it/wp-content/uploads/2019/05/nba2.jpg
+-[https://zon.it/wp-content/uploads/2019/05/nba2.jpg](https://zon.it/wp-content/uploads/2019/05/nba2.jpg)
 
 NBA team logo
--https://sportskevijesti.com/wp-content/uploads/2017/03/asf.jpg
+-[https://sportskevijesti.com/wp-content/uploads/2017/03/asf.jpg](https://sportskevijesti.com/wp-content/uploads/2017/03/asf.jpg)
 
 Hoop
--https://i0.wp.com/www.nafpaktianews.gr/wp-content/uploads/2019/05/basket-background.jpg?fit=1920%2C1200&ssl=1
+-[https://i0.wp.com/www.nafpaktianews.gr/wp-content/uploads/2019/05/basket-background.jpg?fit=1920%2C1200&ssl=1](https://i0.wp.com/www.nafpaktianews.gr/wp-content/uploads/2019/05/basket-background.jpg?fit=1920%2C1200&ssl=1)
 
 Dunk
--http://wallpapersexpert.com/data/out/53/3760045-nba-wallpapers.jpg
+-[http://wallpapersexpert.com/data/out/53/3760045-nba-wallpapers.jpg](http://wallpapersexpert.com/data/out/53/3760045-nba-wallpapers.jpg)
 
 Suit background
--https://teleran.com/wp-content/uploads/2016/12/pii-security-risks.jpg
+-[https://teleran.com/wp-content/uploads/2016/12/pii-security-risks.jpg](https://teleran.com/wp-content/uploads/2016/12/pii-security-risks.jpg)
 
 Believe you can
--https://parade.com/wp-content/uploads/2020/01/dont-give-up-quotes.jpg
+-[https://parade.com/wp-content/uploads/2020/01/dont-give-up-quotes.jpg](https://parade.com/wp-content/uploads/2020/01/dont-give-up-quotes.jpg)
 
 Playing basketball
--https://dunkorthree.com/wp-content/uploads/play-basketball-grow-tall.png
+-[https://dunkorthree.com/wp-content/uploads/play-basketball-grow-tall.png](https://dunkorthree.com/wp-content/uploads/play-basketball-grow-tall.png)
 
 Do what you love
--https://quotefancy.com/quote/136332/Wayne-W-Dyer-Love-what-you-do-Do-what-you-love
+-[https://quotefancy.com/quote/136332/Wayne-W-Dyer-Love-what-you-do-Do-what-you-love](https://quotefancy.com/quote/136332/Wayne-W-Dyer-Love-what-you-do-Do-what-you-love)
 
 
 

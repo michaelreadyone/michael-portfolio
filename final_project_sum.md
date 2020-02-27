@@ -25,7 +25,7 @@ To achieve this, I showed more friendly statistics and data visualization. I emp
 
 # Reference
 NBA players data
--https://www.kaggle.com/justinas/nba-players-data
+-[https://www.kaggle.com/justinas/nba-players-data](https://www.kaggle.com/justinas/nba-players-data)
 
 NBA all-star games 2000-2016
 -https://www.kaggle.com/fmejia21/nba-all-star-game-20002016

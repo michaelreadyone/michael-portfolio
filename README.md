@@ -7,18 +7,16 @@ Hi! My name is Michael(Jiang) Chang. I use pronounces He/His. I am currently in 
 ## What I hope to learn
 As a student in data science. I divide my learning in two parts: data processing(deal with machine) and data demonstration(deal with people). This course will be a great help in the second part. I Want to learn how to scientifically and esthetically apply the type of chart, coloring, labeling and scaling to best present data. I want to learn how to prepare the visualization bases on different audience and environment. I also want to learn how to build and maintain an online portfolio. The ultimate goal is to effectively and rapidly demonstrate my interpretation of the data to my audience.
 
-# Portfolio
-Will be updated. 
+# Portfolios
 
-# Other Practice
-[Link to Assighment2](/assignment2.md)
+[OECD data visualization](/assignment2.md)
 
-[Link to Assighment3](/assignment3.md)
+[Design critique of a Tableau public data visualization](/assignment3.md)
 
-[Link to Final Project Part I](/final_project_jiang.md)
+[Final Project Part I: The idea](/final_project_jiang.md)
 
-[Link to Final Project Part II](/final_project_PartII.md)
+[Final Project Part II: Design and user research](/final_project_PartII.md)
 
-[Link to Final Project Part III](/final_project_sum.md)
+[Final Project Part III: Final project summarize](/final_project_sum.md)
 
 
